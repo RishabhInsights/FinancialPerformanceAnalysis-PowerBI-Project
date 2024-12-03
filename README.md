@@ -90,10 +90,10 @@ This repository contains a dynamic **Financial Performance Dashboard** built in 
 
 ## **Screenshots**
 ### **Executive Summary**
-![Executive Summary](FinancialPerformanceAnalysis/BI Report/ExecutiveSummary.png)
+![Executive Summary](https://github.com/RishabhInsights/FinancialPerformanceAnalysis-PowerBI-Project/blob/main/FinancialPerformanceAnalysis/BI%20Report/ExecutiveSummary.png)
 
 ### **Cumulative Performance**
-![Cumulative Performance](FinancialPerformanceAnalysis/BI Report/CumulativePerformance.png)
+![Cumulative Performance](https://github.com/RishabhInsights/FinancialPerformanceAnalysis-PowerBI-Project/blob/main/FinancialPerformanceAnalysis/BI%20Report/CumulativePerformance.png)
 
 ---
 
@@ -105,5 +105,5 @@ This repository contains a dynamic **Financial Performance Dashboard** built in 
 ## **Contact**
 For any queries or suggestions, feel free to contact me:
 - **Name**: Rishabh Jaiswal
-- **Email**: [jrishabh444@gmail.com]
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rishjaiswal/)(#)
+- **Email**: jrishabh444@gmail.com
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/rishjaiswal/)
